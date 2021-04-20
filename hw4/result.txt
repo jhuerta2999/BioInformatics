@@ -1,0 +1,31 @@
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.5893137768465165', 'hard probability: 0.0', 'none probability: 0.4106862231534835']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: hard ['soft probability: 0.0', 'hard probability: 0.7700205338809034', 'none probability: 0.22997946611909653']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.7151938970120788', 'hard probability: 0.0', 'none probability: 0.2848061029879212']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.5344418052256532', 'hard probability: 0.0', 'none probability: 0.46555819477434685']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.6676557863501483', 'hard probability: 0.0', 'none probability: 0.33234421364985167']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: hard ['soft probability: 0.0', 'hard probability: 0.6363636363636365', 'none probability: 0.36363636363636365']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.7530186608122942', 'hard probability: 0.0', 'none probability: 0.24698133918770576']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: hard ['soft probability: 0.0', 'hard probability: 0.5833333333333333', 'none probability: 0.41666666666666663']
+
+       none  soft  hard
+  none   12   1   2
+  soft   1   4   0
+  hard   3   0   1
+
+Classification Accuracy: 17 / 24 = 0.7083333333333334

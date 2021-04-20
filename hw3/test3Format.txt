@@ -1,0 +1,17 @@
+Ensure segments are done correctly when breakpoints reduce by 2
+
+Starting Sequence: 
+0   1   6   5   3   4   2   7   
+ ----------- 
+Permutatiton Distance: 0
+Number of Breakpoints: 4
+[0, 1] [6, 5] [3, 4] [2] [7] 
+ ----------- 
+Permutatiton Distance: 1
+Number of Breakpoints: 2
+[0, 1, 2] [4, 3] [5, 6, 7] 
+ ----------- 
+Permutatiton Distance: 2
+Number of Breakpoints: 0
+0 1 2 3 4 5 6 7 
+ ----------- 

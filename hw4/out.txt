@@ -1,0 +1,5 @@
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: none ['soft probability: 0.0', 'hard probability: 0.0', 'none probability: 1.0']
+Classified as: soft ['soft probability: 0.7531710661638669', 'hard probability: 0.0', 'none probability: 0.24682893383613302']
+Classified as: hard ['soft probability: 0.0', 'hard probability: 0.6854914196567862', 'none probability: 0.3145085803432138']
